@@ -1,4 +1,4 @@
-# 🛒 Modelagem de Banco de Dados — E-commerce (refinado)
+# 🛒 Modelagem de Banco de Dados — E-commerce.
 
 Projeto de refinamento do modelo conceitual/lógico de um e-commerce, desenvolvido como desafio de projeto da DIO.
 
